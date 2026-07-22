@@ -77,7 +77,7 @@ ETL · Data Cleaning · Data Modeling · Query Optimization
 
 ---
 
-#### 🤖 InsightGPT — Enterprise AI Data Analyst
+#### 🤖 Northstar (AI-Powered Business Analytics Platform)
 `Python` `Streamlit` `Google Gemini AI` `Pandas` `Plotly`
 
 **Business problem:** Non-technical users often have a CSV or Excel file full of useful data but no easy way to explore it without writing code.
@@ -90,7 +90,7 @@ ETL · Data Cleaning · Data Modeling · Query Optimization
 
 ---
 
-#### 🗄️ QueryGPT — Universal AI SQL Database Analyst
+#### 🗄️ BridgeSQL (Natural Language Database Assistant)⁠
 `Python` `SQLite` `Streamlit` `Google Gemini AI` `SQL` `Plotly`
 
 **Business problem:** Writing SQL is a barrier for a lot of people who still need answers from a database.
