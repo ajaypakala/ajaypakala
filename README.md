@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm based in Bangalore, currently finishing my B.Tech in Electronics & Communication Engineering, and I spend most of my time working with data — cleaning it, querying it, and turning it into dashboards and reports that make sense to people who aren't going to dig through raw tables themselves.
+I'm based in Bangalore, recently completed my B.Tech in Electronics & Communication Engineering, and I spend most of my time working with data — cleaning it, querying it, and turning it into dashboards and reports that make sense to people who aren't going to dig through raw tables themselves.
 
 My core stack is Python and SQL for the analysis side, and Power BI / Tableau for the reporting side. I like the part of the job where a messy spreadsheet or a database full of transactions turns into a dashboard that answers a real business question — revenue trends, customer behavior, product performance, that kind of thing.
 
