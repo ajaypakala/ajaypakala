@@ -73,7 +73,7 @@ ETL · Data Cleaning · Data Modeling · Query Optimization
 
 **Impact:** Made it possible to track revenue, orders, customer activity, and product performance in one place, and surfaced buying behavior and sales trends that weren't obvious in the raw data.
 
-🔗 [Repository]([https://github.com/ajaypakala/Ecommerce-sales-dashboard])
+🔗 [Repository](https://github.com/ajaypakala/Ecommerce-sales-dashboard)
 
 ---
 
